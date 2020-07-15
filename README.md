@@ -6,4 +6,4 @@
 
 - 🤔 I’m looking for help with: finding ethical tech jobs
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: it's pronunced GIF not GIF
+- ⚡ Fun fact: it's pronounced GIF not GIF
