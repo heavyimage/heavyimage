@@ -7,5 +7,6 @@
 - 😄 Pronouns: he/him
 - :man_student: I'm a CS PhD student at the [University of Birmingham](cs.bham.ac.uk/)
 - :mailbox: I can be reached on [mastodon](https://mastodon.social/@heavyimage)
+- :art: Art / tech projects over on [pixelfed](https://pixelfed.social/heavyimage)
 - ⚡ Fun fact: it's pronounced GIF not GIF
 
